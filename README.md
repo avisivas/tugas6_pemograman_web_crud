@@ -24,19 +24,19 @@
 ## CRUD pada tabel categories
 
 ### View categories
-![View Category by ID](skrinsut/categories-get.png)
+![View Category](skrinsut/categories-get.png)
 
 ### View categories by id
-![View Category by ID](skrinsut/categories-id.png)
+![View Category by id](skrinsut/categories-id.png)
 
 ### Create categories  
-![View Category by ID](skrinsut/categories-post.png)
+![Create Category](skrinsut/categories-post.png)
 
 ### Update categories 
-![View Category by ID](skrinsut/categories-update.png)
+![Update Category](skrinsut/categories-put.png)
 
 ### Delete categories 
-![View Category by ID](skrinsut/categories-delete.png)
+![Delete Category](skrinsut/categories-delete.png)
 
 ---
 
@@ -46,13 +46,13 @@
 ![View Products](skrinsut/products-get.png)
 
 ### View products by id
-![View Products](skrinsut/products-id.png)
+![View Products_by_id](skrinsut/products-id.png)
 
 ### Create products
-![View Products](skrinsut/products-post.png)
+![Create Products](skrinsut/products-post.png)
 
 ### Update products
-![View Products](skrinsut/products-update.png)
+![Update Products](skrinsut/products-update.png)
 
 ### Delete products
-![View Products](skrinsut/products-delete.png)
+![Delete Products](skrinsut/products-delete.png)
