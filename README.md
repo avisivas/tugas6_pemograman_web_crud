@@ -24,7 +24,7 @@
 ## CRUD pada tabel categories
 
 ### View categories
-!(skrinsut/categories-get.png)
+![View Category by ID](skrinsut/categories-get.png)
 
 ### View categories by id
 ![View Category by ID](skrinsut/categories-id.png)
